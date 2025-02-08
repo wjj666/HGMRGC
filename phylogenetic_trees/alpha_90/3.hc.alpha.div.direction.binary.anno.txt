@@ -1,0 +1,29 @@
+DATASET_BINARY
+SEPARATOR COMMA
+DATASET_LABEL,Higher SNP-based alpha diversity in HC
+COLOR,#DC143C
+FIELD_SHAPES,6
+FIELD_LABELS,f1
+LEGEND_TITLE,Higher SNP-based alpha diversity in HC
+LEGEND_SCALE,1
+DATA
+cluster_118_strain_0,1
+cluster_148_strain_0,1
+cluster_112_strain_0,1
+cluster_29_strain_0,1
+cluster_278_strain_0,1
+cluster_2943_strain_0,1
+cluster_135_strain_0,1
+cluster_2040_strain_0,1
+cluster_233_strain_0,1
+cluster_309_strain_0,1
+cluster_4252_strain_0,1
+cluster_530_strain_0,1
+cluster_388_strain_0,1
+cluster_560_strain_0,1
+cluster_614_strain_0,1
+cluster_413_strain_0,1
+cluster_494_strain_0,1
+cluster_632_strain_0,1
+cluster_67_strain_0,1
+cluster_61_strain_0,1
