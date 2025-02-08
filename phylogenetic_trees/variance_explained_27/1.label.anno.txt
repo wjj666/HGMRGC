@@ -1,0 +1,30 @@
+LABELS
+SEPARATOR COMMA
+DATA
+cluster_112_strain_0,Ruminococcus_B gnavus
+cluster_114_strain_0,Mediterraneibacter faecis
+cluster_121_strain_0,Bariatricus comes
+cluster_159_strain_0,Prevotella sp900557255
+cluster_16_strain_0,Ruminococcus_D bicirculans
+cluster_1823_strain_0,CAG-217 sp000436335
+cluster_212_strain_0,Gemmiger formicilis
+cluster_265_strain_0,Agathobaculum butyriciproducens
+cluster_282_strain_0,Coprococcus sp900066115
+cluster_284_strain_0,Coprococcus eutactus_A
+cluster_3259_strain_0,Gemmiger qucibialis
+cluster_33_strain_0,Blautia_A wexlerae_A
+cluster_3646_strain_0,CAG-83 sp000435555
+cluster_3710_strain_0,UBA11524 sp000437595
+cluster_388_strain_0,Acetatifactor sp900066565
+cluster_389_strain_0,Acetatifactor sp900066365
+cluster_3964_strain_0,CAG-170 sp000432135
+cluster_447_strain_0,Fusicatenibacter saccharivorans
+cluster_448_strain_0,UMGS1375 sp900066615
+cluster_530_strain_0,Faecalibacillus intestinalis
+cluster_541_strain_0,Faecalibacterium prausnitzii_C
+cluster_544_strain_0,Faecalibacterium prausnitzii_I
+cluster_548_strain_0,Agathobacter rectalis
+cluster_553_strain_0,Agathobacter faecis
+cluster_566_strain_0,Roseburia hominis
+cluster_668_strain_0,Eubacterium_F sp003491505
+cluster_853_strain_0,Eubacterium_R sp000436835

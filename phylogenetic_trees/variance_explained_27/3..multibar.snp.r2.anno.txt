@@ -1,0 +1,38 @@
+DATASET_MULTIBAR
+SEPARATOR COMMA
+DATASET_LABEL,Estimated variance (%)
+COLOR,#dc143c
+FIELD_COLORS,#2F4F4F,#B8860B
+FIELD_LABELS,Discovery cohort,Replication cohort
+DATASET_SCALE,5,10,15,20
+DATASET_SCALE,5-5%-#0000ff-5-0-1,10-10%-#0000ff-5-1-5,15-15%-#0000ff-5-1-1,20-20%-#0000ff-5-1-1
+LEGEND_TITLE,Estimated variance (%)
+LEGEND_SCALE,1
+DATA
+cluster_112_strain_0,5.32,7.2
+cluster_114_strain_0,10.51,15.73
+cluster_121_strain_0,6.88,7.81
+cluster_159_strain_0,10.74,5.55
+cluster_16_strain_0,5.97,5.9
+cluster_1823_strain_0,11.57,10.11
+cluster_212_strain_0,9.87,8.27
+cluster_265_strain_0,5.09,5.91
+cluster_282_strain_0,21.04,6.93
+cluster_284_strain_0,19.38,15.04
+cluster_3259_strain_0,9.03,8.19
+cluster_33_strain_0,5.29,5.52
+cluster_3646_strain_0,7.24,7.26
+cluster_3710_strain_0,10.93,10.7
+cluster_388_strain_0,14.99,13.95
+cluster_389_strain_0,18.4,13.98
+cluster_3964_strain_0,6.61,5.26
+cluster_447_strain_0,7.86,5.96
+cluster_448_strain_0,10.38,7.87
+cluster_530_strain_0,17.42,21.1
+cluster_541_strain_0,9.89,5.49
+cluster_544_strain_0,17.33,10.18
+cluster_548_strain_0,10.08,8.07
+cluster_553_strain_0,12.26,5.3
+cluster_566_strain_0,5.52,5.98
+cluster_668_strain_0,16.26,15.17
+cluster_853_strain_0,7.15,6.6
