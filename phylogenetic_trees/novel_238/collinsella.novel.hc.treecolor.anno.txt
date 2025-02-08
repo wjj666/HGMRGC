@@ -1,0 +1,515 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+cluster_5676_strain_0	clade	#009E73	normal	1
+cluster_5676_strain_0	label	#009E73
+cluster_1207_strain_0	clade	#009E73	normal	1
+cluster_1207_strain_0	label	#009E73
+cluster_5747_strain_0	clade	#009E73	normal	1
+cluster_5747_strain_0	label	#009E73
+cluster_5037_strain_0	clade	#009E73	normal	1
+cluster_5037_strain_0	label	#009E73
+cluster_3233_strain_0	clade	#009E73	normal	1
+cluster_3233_strain_0	label	#009E73
+cluster_5677_strain_0	clade	#009E73	normal	1
+cluster_5677_strain_0	label	#009E73
+cluster_5632_strain_0	clade	#009E73	normal	1
+cluster_5632_strain_0	label	#009E73
+cluster_1241_strain_0	clade	#009E73	normal	1
+cluster_1241_strain_0	label	#009E73
+cluster_1167_strain_0	clade	#009E73	normal	1
+cluster_1167_strain_0	label	#009E73
+cluster_5134_strain_0	clade	#009E73	normal	1
+cluster_5134_strain_0	label	#009E73
+cluster_1042_strain_0	clade	#009E73	normal	1
+cluster_1042_strain_0	label	#009E73
+cluster_5760_strain_0	clade	#009E73	normal	1
+cluster_5760_strain_0	label	#009E73
+cluster_4886_strain_0	clade	#009E73	normal	1
+cluster_4886_strain_0	label	#009E73
+cluster_5477_strain_0	clade	#009E73	normal	1
+cluster_5477_strain_0	label	#009E73
+cluster_5691_strain_0	clade	#009E73	normal	1
+cluster_5691_strain_0	label	#009E73
+cluster_5339_strain_0	clade	#009E73	normal	1
+cluster_5339_strain_0	label	#009E73
+cluster_4793_strain_0	clade	#009E73	normal	1
+cluster_4793_strain_0	label	#009E73
+cluster_4613_strain_0	clade	#009E73	normal	1
+cluster_4613_strain_0	label	#009E73
+cluster_4307_strain_0	clade	#009E73	normal	1
+cluster_4307_strain_0	label	#009E73
+cluster_5176_strain_0	clade	#009E73	normal	1
+cluster_5176_strain_0	label	#009E73
+cluster_5643_strain_0	clade	#009E73	normal	1
+cluster_5643_strain_0	label	#009E73
+cluster_5680_strain_0	clade	#009E73	normal	1
+cluster_5680_strain_0	label	#009E73
+cluster_996_strain_0	clade	#009E73	normal	1
+cluster_996_strain_0	label	#009E73
+cluster_1210_strain_0	clade	#009E73	normal	1
+cluster_1210_strain_0	label	#009E73
+cluster_5670_strain_0	clade	#009E73	normal	1
+cluster_5670_strain_0	label	#009E73
+cluster_5035_strain_0	clade	#009E73	normal	1
+cluster_5035_strain_0	label	#009E73
+cluster_5661_strain_0	clade	#009E73	normal	1
+cluster_5661_strain_0	label	#009E73
+cluster_5314_strain_0	clade	#009E73	normal	1
+cluster_5314_strain_0	label	#009E73
+cluster_5674_strain_0	clade	#009E73	normal	1
+cluster_5674_strain_0	label	#009E73
+cluster_4935_strain_0	clade	#009E73	normal	1
+cluster_4935_strain_0	label	#009E73
+cluster_5043_strain_0	clade	#009E73	normal	1
+cluster_5043_strain_0	label	#009E73
+cluster_5399_strain_0	clade	#009E73	normal	1
+cluster_5399_strain_0	label	#009E73
+cluster_4786_strain_0	clade	#009E73	normal	1
+cluster_4786_strain_0	label	#009E73
+cluster_5028_strain_0	clade	#009E73	normal	1
+cluster_5028_strain_0	label	#009E73
+cluster_5215_strain_0	clade	#009E73	normal	1
+cluster_5215_strain_0	label	#009E73
+cluster_4163_strain_0	clade	#009E73	normal	1
+cluster_4163_strain_0	label	#009E73
+cluster_4825_strain_0	clade	#009E73	normal	1
+cluster_4825_strain_0	label	#009E73
+cluster_5622_strain_0	clade	#009E73	normal	1
+cluster_5622_strain_0	label	#009E73
+cluster_5683_strain_0	clade	#009E73	normal	1
+cluster_5683_strain_0	label	#009E73
+cluster_5751_strain_0	clade	#009E73	normal	1
+cluster_5751_strain_0	label	#009E73
+cluster_1214_strain_0	clade	#009E73	normal	1
+cluster_1214_strain_0	label	#009E73
+cluster_4822_strain_0	clade	#009E73	normal	1
+cluster_4822_strain_0	label	#009E73
+cluster_3861_strain_0	clade	#009E73	normal	1
+cluster_3861_strain_0	label	#009E73
+cluster_5689_strain_0	clade	#009E73	normal	1
+cluster_5689_strain_0	label	#009E73
+cluster_5198_strain_0	clade	#009E73	normal	1
+cluster_5198_strain_0	label	#009E73
+cluster_5729_strain_0	clade	#009E73	normal	1
+cluster_5729_strain_0	label	#009E73
+cluster_1215_strain_0	clade	#009E73	normal	1
+cluster_1215_strain_0	label	#009E73
+cluster_1232_strain_0	clade	#009E73	normal	1
+cluster_1232_strain_0	label	#009E73
+cluster_1143_strain_0	clade	#009E73	normal	1
+cluster_1143_strain_0	label	#009E73
+cluster_5718_strain_0	clade	#009E73	normal	1
+cluster_5718_strain_0	label	#009E73
+cluster_5682_strain_0	clade	#009E73	normal	1
+cluster_5682_strain_0	label	#009E73
+cluster_5082_strain_0	clade	#009E73	normal	1
+cluster_5082_strain_0	label	#009E73
+cluster_5090_strain_0	clade	#009E73	normal	1
+cluster_5090_strain_0	label	#009E73
+cluster_3515_strain_0	clade	#009E73	normal	1
+cluster_3515_strain_0	label	#009E73
+cluster_5640_strain_0	clade	#009E73	normal	1
+cluster_5640_strain_0	label	#009E73
+cluster_1192_strain_0	clade	#009E73	normal	1
+cluster_1192_strain_0	label	#009E73
+cluster_1208_strain_0	clade	#009E73	normal	1
+cluster_1208_strain_0	label	#009E73
+cluster_4850_strain_0	clade	#009E73	normal	1
+cluster_4850_strain_0	label	#009E73
+cluster_4997_strain_0	clade	#009E73	normal	1
+cluster_4997_strain_0	label	#009E73
+cluster_5685_strain_0	clade	#009E73	normal	1
+cluster_5685_strain_0	label	#009E73
+cluster_1656_strain_0	clade	#009E73	normal	1
+cluster_1656_strain_0	label	#009E73
+cluster_5619_strain_0	clade	#009E73	normal	1
+cluster_5619_strain_0	label	#009E73
+cluster_1131_strain_0	clade	#009E73	normal	1
+cluster_1131_strain_0	label	#009E73
+cluster_1243_strain_0	clade	#009E73	normal	1
+cluster_1243_strain_0	label	#009E73
+cluster_1641_strain_0	clade	#009E73	normal	1
+cluster_1641_strain_0	label	#009E73
+cluster_4803_strain_0	clade	#009E73	normal	1
+cluster_4803_strain_0	label	#009E73
+cluster_5462_strain_0	clade	#009E73	normal	1
+cluster_5462_strain_0	label	#009E73
+cluster_1024_strain_0	clade	#009E73	normal	1
+cluster_1024_strain_0	label	#009E73
+cluster_3511_strain_0	clade	#009E73	normal	1
+cluster_3511_strain_0	label	#009E73
+cluster_4936_strain_0	clade	#009E73	normal	1
+cluster_4936_strain_0	label	#009E73
+cluster_1537_strain_0	clade	#009E73	normal	1
+cluster_1537_strain_0	label	#009E73
+cluster_4994_strain_0	clade	#009E73	normal	1
+cluster_4994_strain_0	label	#009E73
+cluster_995_strain_0	clade	#009E73	normal	1
+cluster_995_strain_0	label	#009E73
+cluster_1511_strain_0	clade	#009E73	normal	1
+cluster_1511_strain_0	label	#009E73
+cluster_1201_strain_0	clade	#009E73	normal	1
+cluster_1201_strain_0	label	#009E73
+cluster_988_strain_0	clade	#009E73	normal	1
+cluster_988_strain_0	label	#009E73
+cluster_1971_strain_0	clade	#009E73	normal	1
+cluster_1971_strain_0	label	#009E73
+cluster_1630_strain_0	clade	#009E73	normal	1
+cluster_1630_strain_0	label	#009E73
+cluster_759_strain_0	clade	#009E73	normal	1
+cluster_759_strain_0	label	#009E73
+cluster_1261_strain_0	clade	#009E73	normal	1
+cluster_1261_strain_0	label	#009E73
+cluster_3695_strain_0	clade	#009E73	normal	1
+cluster_3695_strain_0	label	#009E73
+cluster_1184_strain_0	clade	#009E73	normal	1
+cluster_1184_strain_0	label	#009E73
+cluster_1271_strain_0	clade	#009E73	normal	1
+cluster_1271_strain_0	label	#009E73
+cluster_1233_strain_0	clade	#009E73	normal	1
+cluster_1233_strain_0	label	#009E73
+cluster_5190_strain_0	clade	#009E73	normal	1
+cluster_5190_strain_0	label	#009E73
+cluster_5200_strain_0	clade	#009E73	normal	1
+cluster_5200_strain_0	label	#009E73
+cluster_4950_strain_0	clade	#009E73	normal	1
+cluster_4950_strain_0	label	#009E73
+cluster_1247_strain_0	clade	#009E73	normal	1
+cluster_1247_strain_0	label	#009E73
+cluster_5649_strain_0	clade	#009E73	normal	1
+cluster_5649_strain_0	label	#009E73
+cluster_4848_strain_0	clade	#009E73	normal	1
+cluster_4848_strain_0	label	#009E73
+cluster_4934_strain_0	clade	#009E73	normal	1
+cluster_4934_strain_0	label	#009E73
+cluster_1590_strain_0	clade	#009E73	normal	1
+cluster_1590_strain_0	label	#009E73
+cluster_4964_strain_0	clade	#009E73	normal	1
+cluster_4964_strain_0	label	#009E73
+cluster_5663_strain_0	clade	#009E73	normal	1
+cluster_5663_strain_0	label	#009E73
+cluster_4429_strain_0	clade	#009E73	normal	1
+cluster_4429_strain_0	label	#009E73
+cluster_5688_strain_0	clade	#009E73	normal	1
+cluster_5688_strain_0	label	#009E73
+cluster_5464_strain_0	clade	#009E73	normal	1
+cluster_5464_strain_0	label	#009E73
+cluster_4870_strain_0	clade	#009E73	normal	1
+cluster_4870_strain_0	label	#009E73
+cluster_5667_strain_0	clade	#009E73	normal	1
+cluster_5667_strain_0	label	#009E73
+cluster_5628_strain_0	clade	#009E73	normal	1
+cluster_5628_strain_0	label	#009E73
+cluster_1047_strain_0	clade	#009E73	normal	1
+cluster_1047_strain_0	label	#009E73
+cluster_5095_strain_0	clade	#009E73	normal	1
+cluster_5095_strain_0	label	#009E73
+cluster_5528_strain_0	clade	#009E73	normal	1
+cluster_5528_strain_0	label	#009E73
+cluster_1123_strain_0	clade	#009E73	normal	1
+cluster_1123_strain_0	label	#009E73
+cluster_1624_strain_0	clade	#009E73	normal	1
+cluster_1624_strain_0	label	#009E73
+cluster_5318_strain_0	clade	#009E73	normal	1
+cluster_5318_strain_0	label	#009E73
+cluster_5623_strain_0	clade	#009E73	normal	1
+cluster_5623_strain_0	label	#009E73
+cluster_5678_strain_0	clade	#009E73	normal	1
+cluster_5678_strain_0	label	#009E73
+cluster_5652_strain_0	clade	#009E73	normal	1
+cluster_5652_strain_0	label	#009E73
+cluster_5633_strain_0	clade	#009E73	normal	1
+cluster_5633_strain_0	label	#009E73
+cluster_1347_strain_0	clade	#009E73	normal	1
+cluster_1347_strain_0	label	#009E73
+cluster_5719_strain_0	clade	#009E73	normal	1
+cluster_5719_strain_0	label	#009E73
+cluster_5686_strain_0	clade	#009E73	normal	1
+cluster_5686_strain_0	label	#009E73
+cluster_5675_strain_0	clade	#009E73	normal	1
+cluster_5675_strain_0	label	#009E73
+cluster_5703_strain_0	clade	#009E73	normal	1
+cluster_5703_strain_0	label	#009E73
+cluster_4329_strain_0	clade	#009E73	normal	1
+cluster_4329_strain_0	label	#009E73
+cluster_4989_strain_0	clade	#009E73	normal	1
+cluster_4989_strain_0	label	#009E73
+cluster_5665_strain_0	clade	#009E73	normal	1
+cluster_5665_strain_0	label	#009E73
+cluster_1017_strain_0	clade	#009E73	normal	1
+cluster_1017_strain_0	label	#009E73
+cluster_5660_strain_0	clade	#009E73	normal	1
+cluster_5660_strain_0	label	#009E73
+cluster_5059_strain_0	clade	#009E73	normal	1
+cluster_5059_strain_0	label	#009E73
+cluster_5326_strain_0	clade	#009E73	normal	1
+cluster_5326_strain_0	label	#009E73
+cluster_1186_strain_0	clade	#009E73	normal	1
+cluster_1186_strain_0	label	#009E73
+cluster_1194_strain_0	clade	#009E73	normal	1
+cluster_1194_strain_0	label	#009E73
+cluster_5549_strain_0	clade	#009E73	normal	1
+cluster_5549_strain_0	label	#009E73
+cluster_4137_strain_0	clade	#009E73	normal	1
+cluster_4137_strain_0	label	#009E73
+cluster_5666_strain_0	clade	#009E73	normal	1
+cluster_5666_strain_0	label	#009E73
+cluster_2409_strain_0	clade	#009E73	normal	1
+cluster_2409_strain_0	label	#009E73
+cluster_4863_strain_0	clade	#009E73	normal	1
+cluster_4863_strain_0	label	#009E73
+cluster_3693_strain_0	clade	#009E73	normal	1
+cluster_3693_strain_0	label	#009E73
+cluster_3305_strain_0	clade	#009E73	normal	1
+cluster_3305_strain_0	label	#009E73
+cluster_5186_strain_0	clade	#009E73	normal	1
+cluster_5186_strain_0	label	#009E73
+cluster_4893_strain_0	clade	#009E73	normal	1
+cluster_4893_strain_0	label	#009E73
+cluster_1161_strain_0	clade	#009E73	normal	1
+cluster_1161_strain_0	label	#009E73
+cluster_5613_strain_0	clade	#009E73	normal	1
+cluster_5613_strain_0	label	#009E73
+cluster_2201_strain_0	clade	#009E73	normal	1
+cluster_2201_strain_0	label	#009E73
+cluster_5000_strain_0	clade	#009E73	normal	1
+cluster_5000_strain_0	label	#009E73
+cluster_5690_strain_0	clade	#009E73	normal	1
+cluster_5690_strain_0	label	#009E73
+cluster_5635_strain_0	clade	#009E73	normal	1
+cluster_5635_strain_0	label	#009E73
+cluster_3361_strain_0	clade	#009E73	normal	1
+cluster_3361_strain_0	label	#009E73
+cluster_1220_strain_0	clade	#009E73	normal	1
+cluster_1220_strain_0	label	#009E73
+cluster_4874_strain_0	clade	#009E73	normal	1
+cluster_4874_strain_0	label	#009E73
+cluster_3284_strain_0	clade	#009E73	normal	1
+cluster_3284_strain_0	label	#009E73
+cluster_1449_strain_0	clade	#009E73	normal	1
+cluster_1449_strain_0	label	#009E73
+cluster_4984_strain_0	clade	#009E73	normal	1
+cluster_4984_strain_0	label	#009E73
+cluster_5631_strain_0	clade	#009E73	normal	1
+cluster_5631_strain_0	label	#009E73
+cluster_5101_strain_0	clade	#009E73	normal	1
+cluster_5101_strain_0	label	#009E73
+cluster_991_strain_0	clade	#009E73	normal	1
+cluster_991_strain_0	label	#009E73
+cluster_5726_strain_0	clade	#009E73	normal	1
+cluster_5726_strain_0	label	#009E73
+cluster_5644_strain_0	clade	#009E73	normal	1
+cluster_5644_strain_0	label	#009E73
+cluster_1120_strain_0	clade	#009E73	normal	1
+cluster_1120_strain_0	label	#009E73
+cluster_5641_strain_0	clade	#009E73	normal	1
+cluster_5641_strain_0	label	#009E73
+cluster_5402_strain_0	clade	#009E73	normal	1
+cluster_5402_strain_0	label	#009E73
+cluster_1001_strain_0	clade	#009E73	normal	1
+cluster_1001_strain_0	label	#009E73
+cluster_4910_strain_0	clade	#009E73	normal	1
+cluster_4910_strain_0	label	#009E73
+cluster_1615_strain_0	clade	#009E73	normal	1
+cluster_1615_strain_0	label	#009E73
+cluster_5672_strain_0	clade	#009E73	normal	1
+cluster_5672_strain_0	label	#009E73
+cluster_4919_strain_0	clade	#009E73	normal	1
+cluster_4919_strain_0	label	#009E73
+cluster_4348_strain_0	clade	#009E73	normal	1
+cluster_4348_strain_0	label	#009E73
+cluster_5199_strain_0	clade	#009E73	normal	1
+cluster_5199_strain_0	label	#009E73
+cluster_5231_strain_0	clade	#009E73	normal	1
+cluster_5231_strain_0	label	#009E73
+cluster_5195_strain_0	clade	#009E73	normal	1
+cluster_5195_strain_0	label	#009E73
+cluster_1235_strain_0	clade	#009E73	normal	1
+cluster_1235_strain_0	label	#009E73
+cluster_1030_strain_0	clade	#009E73	normal	1
+cluster_1030_strain_0	label	#009E73
+cluster_1227_strain_0	clade	#009E73	normal	1
+cluster_1227_strain_0	label	#009E73
+cluster_5483_strain_0	clade	#009E73	normal	1
+cluster_5483_strain_0	label	#009E73
+cluster_2891_strain_0	clade	#009E73	normal	1
+cluster_2891_strain_0	label	#009E73
+cluster_5324_strain_0	clade	#009E73	normal	1
+cluster_5324_strain_0	label	#009E73
+cluster_2410_strain_0	clade	#009E73	normal	1
+cluster_2410_strain_0	label	#009E73
+cluster_5336_strain_0	clade	#009E73	normal	1
+cluster_5336_strain_0	label	#009E73
+cluster_1014_strain_0	clade	#009E73	normal	1
+cluster_1014_strain_0	label	#009E73
+cluster_4842_strain_0	clade	#009E73	normal	1
+cluster_4842_strain_0	label	#009E73
+cluster_3847_strain_0	clade	#009E73	normal	1
+cluster_3847_strain_0	label	#009E73
+cluster_4600_strain_0	clade	#009E73	normal	1
+cluster_4600_strain_0	label	#009E73
+cluster_4027_strain_0	clade	#009E73	normal	1
+cluster_4027_strain_0	label	#009E73
+cluster_5645_strain_0	clade	#009E73	normal	1
+cluster_5645_strain_0	label	#009E73
+cluster_5710_strain_0	clade	#009E73	normal	1
+cluster_5710_strain_0	label	#009E73
+cluster_5669_strain_0	clade	#009E73	normal	1
+cluster_5669_strain_0	label	#009E73
+cluster_5583_strain_0	clade	#009E73	normal	1
+cluster_5583_strain_0	label	#009E73
+cluster_5197_strain_0	clade	#009E73	normal	1
+cluster_5197_strain_0	label	#009E73
+cluster_1137_strain_0	clade	#009E73	normal	1
+cluster_1137_strain_0	label	#009E73
+cluster_1163_strain_0	clade	#009E73	normal	1
+cluster_1163_strain_0	label	#009E73
+cluster_5073_strain_0	clade	#009E73	normal	1
+cluster_5073_strain_0	label	#009E73
+cluster_5681_strain_0	clade	#009E73	normal	1
+cluster_5681_strain_0	label	#009E73
+cluster_989_strain_0	clade	#009E73	normal	1
+cluster_989_strain_0	label	#009E73
+cluster_5642_strain_0	clade	#009E73	normal	1
+cluster_5642_strain_0	label	#009E73
+cluster_4844_strain_0	clade	#009E73	normal	1
+cluster_4844_strain_0	label	#009E73
+cluster_5486_strain_0	clade	#009E73	normal	1
+cluster_5486_strain_0	label	#009E73
+cluster_5659_strain_0	clade	#009E73	normal	1
+cluster_5659_strain_0	label	#009E73
+cluster_5586_strain_0	clade	#009E73	normal	1
+cluster_5586_strain_0	label	#009E73
+cluster_5527_strain_0	clade	#009E73	normal	1
+cluster_5527_strain_0	label	#009E73
+cluster_1212_strain_0	clade	#009E73	normal	1
+cluster_1212_strain_0	label	#009E73
+cluster_5072_strain_0	clade	#009E73	normal	1
+cluster_5072_strain_0	label	#009E73
+cluster_2567_strain_0	clade	#009E73	normal	1
+cluster_2567_strain_0	label	#009E73
+cluster_5308_strain_0	clade	#009E73	normal	1
+cluster_5308_strain_0	label	#009E73
+cluster_1180_strain_0	clade	#009E73	normal	1
+cluster_1180_strain_0	label	#009E73
+cluster_1206_strain_0	clade	#009E73	normal	1
+cluster_1206_strain_0	label	#009E73
+cluster_4782_strain_0	clade	#009E73	normal	1
+cluster_4782_strain_0	label	#009E73
+cluster_5646_strain_0	clade	#009E73	normal	1
+cluster_5646_strain_0	label	#009E73
+cluster_1218_strain_0	clade	#009E73	normal	1
+cluster_1218_strain_0	label	#009E73
+cluster_5634_strain_0	clade	#009E73	normal	1
+cluster_5634_strain_0	label	#009E73
+cluster_4823_strain_0	clade	#009E73	normal	1
+cluster_4823_strain_0	label	#009E73
+cluster_5429_strain_0	clade	#009E73	normal	1
+cluster_5429_strain_0	label	#009E73
+cluster_5571_strain_0	clade	#009E73	normal	1
+cluster_5571_strain_0	label	#009E73
+cluster_1504_strain_0	clade	#009E73	normal	1
+cluster_1504_strain_0	label	#009E73
+cluster_5359_strain_0	clade	#009E73	normal	1
+cluster_5359_strain_0	label	#009E73
+cluster_5446_strain_0	clade	#009E73	normal	1
+cluster_5446_strain_0	label	#009E73
+cluster_1196_strain_0	clade	#009E73	normal	1
+cluster_1196_strain_0	label	#009E73
+cluster_5647_strain_0	clade	#009E73	normal	1
+cluster_5647_strain_0	label	#009E73
+cluster_2922_strain_0	clade	#009E73	normal	1
+cluster_2922_strain_0	label	#009E73
+cluster_1191_strain_0	clade	#009E73	normal	1
+cluster_1191_strain_0	label	#009E73
+cluster_4986_strain_0	clade	#009E73	normal	1
+cluster_4986_strain_0	label	#009E73
+cluster_1111_strain_0	clade	#009E73	normal	1
+cluster_1111_strain_0	label	#009E73
+cluster_5521_strain_0	clade	#009E73	normal	1
+cluster_5521_strain_0	label	#009E73
+cluster_5274_strain_0	clade	#009E73	normal	1
+cluster_5274_strain_0	label	#009E73
+cluster_1222_strain_0	clade	#009E73	normal	1
+cluster_1222_strain_0	label	#009E73
+cluster_1211_strain_0	clade	#009E73	normal	1
+cluster_1211_strain_0	label	#009E73
+cluster_1019_strain_0	clade	#009E73	normal	1
+cluster_1019_strain_0	label	#009E73
+cluster_4788_strain_0	clade	#009E73	normal	1
+cluster_4788_strain_0	label	#009E73
+cluster_4946_strain_0	clade	#009E73	normal	1
+cluster_4946_strain_0	label	#009E73
+cluster_5187_strain_0	clade	#009E73	normal	1
+cluster_5187_strain_0	label	#009E73
+cluster_5664_strain_0	clade	#009E73	normal	1
+cluster_5664_strain_0	label	#009E73
+cluster_1231_strain_0	clade	#009E73	normal	1
+cluster_1231_strain_0	label	#009E73
+cluster_5654_strain_0	clade	#009E73	normal	1
+cluster_5654_strain_0	label	#009E73
+cluster_2408_strain_0	clade	#009E73	normal	1
+cluster_2408_strain_0	label	#009E73
+cluster_5679_strain_0	clade	#009E73	normal	1
+cluster_5679_strain_0	label	#009E73
+cluster_1217_strain_0	clade	#009E73	normal	1
+cluster_1217_strain_0	label	#009E73
+cluster_5752_strain_0	clade	#009E73	normal	1
+cluster_5752_strain_0	label	#009E73
+cluster_5687_strain_0	clade	#009E73	normal	1
+cluster_5687_strain_0	label	#009E73
+cluster_5657_strain_0	clade	#009E73	normal	1
+cluster_5657_strain_0	label	#009E73
+cluster_5668_strain_0	clade	#009E73	normal	1
+cluster_5668_strain_0	label	#009E73
+cluster_5413_strain_0	clade	#009E73	normal	1
+cluster_5413_strain_0	label	#009E73
+cluster_5684_strain_0	clade	#009E73	normal	1
+cluster_5684_strain_0	label	#009E73
+cluster_4980_strain_0	clade	#009E73	normal	1
+cluster_4980_strain_0	label	#009E73
+cluster_1604_strain_0	clade	#009E73	normal	1
+cluster_1604_strain_0	label	#009E73
+cluster_1183_strain_0	clade	#009E73	normal	1
+cluster_1183_strain_0	label	#009E73
+cluster_5671_strain_0	clade	#009E73	normal	1
+cluster_5671_strain_0	label	#009E73
+cluster_1571_strain_0	clade	#009E73	normal	1
+cluster_1571_strain_0	label	#009E73
+cluster_5673_strain_0	clade	#009E73	normal	1
+cluster_5673_strain_0	label	#009E73
+cluster_5621_strain_0	clade	#009E73	normal	1
+cluster_5621_strain_0	label	#009E73
+cluster_5188_strain_0	clade	#009E73	normal	1
+cluster_5188_strain_0	label	#009E73
+cluster_5533_strain_0	clade	#009E73	normal	1
+cluster_5533_strain_0	label	#009E73
+cluster_5651_strain_0	clade	#009E73	normal	1
+cluster_5651_strain_0	label	#009E73
+cluster_4912_strain_0	clade	#009E73	normal	1
+cluster_4912_strain_0	label	#009E73
+cluster_1237_strain_0	clade	#009E73	normal	1
+cluster_1237_strain_0	label	#009E73
+cluster_5132_strain_0	clade	#009E73	normal	1
+cluster_5132_strain_0	label	#009E73
+cluster_5118_strain_0	clade	#009E73	normal	1
+cluster_5118_strain_0	label	#009E73
+cluster_5653_strain_0	clade	#009E73	normal	1
+cluster_5653_strain_0	label	#009E73
+cluster_1195_strain_0	clade	#009E73	normal	1
+cluster_1195_strain_0	label	#009E73
+cluster_5637_strain_0	clade	#009E73	normal	1
+cluster_5637_strain_0	label	#009E73
+cluster_1626_strain_0	clade	#009E73	normal	1
+cluster_1626_strain_0	label	#009E73
+cluster_3810_strain_0	clade	#009E73	normal	1
+cluster_3810_strain_0	label	#009E73
+cluster_5428_strain_0	clade	#009E73	normal	1
+cluster_5428_strain_0	label	#009E73
+cluster_1197_strain_0	clade	#009E73	normal	1
+cluster_1197_strain_0	label	#009E73
+cluster_1259_strain_0	clade	#009E73	normal	1
+cluster_1259_strain_0	label	#009E73
+cluster_5060_strain_0	clade	#009E73	normal	1
+cluster_5060_strain_0	label	#009E73
