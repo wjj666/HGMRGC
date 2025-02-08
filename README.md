@@ -49,8 +49,7 @@ fst_86/: Annotation files for the maximum-likelihood phylogenetic tree comprisin
 alpha_90/: Annotation files for the maximum-likelihood phylogenetic tree comprising the 90 representative genomes with significant differences in SNP-based alpha diversity in both discovery and replication cohorts. 
 
 ## data/
-Data used in scripts/.
-
+All data used in scripts/.
 
 
 
