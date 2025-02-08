@@ -1,0 +1,26 @@
+DATASET_BINARY
+SEPARATOR COMMA
+DATASET_LABEL,Genomes with high FST
+COLOR,#dc143c
+FIELD_SHAPES,3
+FIELD_LABELS,Genomes with high FST
+LEGEND_TITLE,Genomes with high FST
+LEGEND_SCALE,1
+DATA
+cluster_551_strain_0,1
+cluster_68_strain_0,1
+cluster_448_strain_0,1
+cluster_4018_strain_0,1
+cluster_369_strain_0,1
+cluster_411_strain_0,1
+cluster_1315_strain_0,1
+cluster_3594_strain_0,1
+cluster_357_strain_0,1
+cluster_3041_strain_0,1
+cluster_853_strain_0,1
+cluster_113_strain_0,1
+cluster_284_strain_0,1
+cluster_243_strain_0,1
+cluster_282_strain_0,1
+cluster_242_strain_0,1
+cluster_440_strain_0,1
