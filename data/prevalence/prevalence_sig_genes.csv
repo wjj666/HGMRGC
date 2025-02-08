@@ -1,0 +1,188 @@
+Gene,HC Frequency,NC Frequency,Direction,Gene Description,KEGG Module,Category 1,Category 2
+ahpC,0.671875,0.080645161,Chinese > Non-Chinese,ahpC,Unknown,Unknown,Unknown
+deaD,0.359375,0.048387097,Chinese > Non-Chinese,deaD,Unknown,Unknown,Unknown
+yqaA,0.28125,0.032258065,Chinese > Non-Chinese,yqaA,Unknown,Unknown,Unknown
+gcvP,0.296875,0.048387097,Chinese > Non-Chinese,Belongs to the GcvP family,M00532: Photorespiration,Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+fbaB,0.25,0,Chinese > Non-Chinese,"COG COG1830 DhnA-type fructose-1,6-bisphosphate aldolase and related enzymes","M00001: Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+znuC,0.3125,0.048387097,Chinese > Non-Chinese,"ABC transporter, ATP-binding protein",M00242: Zinc transport system,Environmental information processing,"Metallic cation, iron-siderophore and vitamin B12 transport system"
+dedA,0.375,0.032258065,Chinese > Non-Chinese,Belongs to the DEAD box helicase family,M00394: RNA degradosome,Genetic information processing,RNA processing
+tpx,0.328125,0.016129032,Chinese > Non-Chinese,tpx,Unknown,Unknown,Unknown
+cyaA,0.28125,0.048387097,Chinese > Non-Chinese,Adenylate cyclase,M00695: cAMP signaling,Cellular processes,Cell signaling
+ydcV,0.21875,0,Chinese > Non-Chinese,ABC transporter (permease),M00193: Putative spermidine/putrescine transport system,Environmental information processing,Mineral and organic ion transport system
+glk,0.5,0.080645161,Chinese > Non-Chinese,Belongs to the bacterial glucokinase family,"M00001: Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+mnmC,0.3125,0.048387097,Chinese > Non-Chinese,mnmC,Unknown,Unknown,Unknown
+acrA,0.28125,0.016129032,Chinese > Non-Chinese,AcrA-AcrB-AcrZ-TolC is a drug efflux protein complex with broad substrate specificity that uses the proton motive force to export substrates. This subunit may act as an adapter protein that links AcrB and TolC stably together,"M00646: Multidrug resistance, efflux pump AcrAD-TolC",Environmental information processing,Drug efflux transporter/pump
+acrA,0.28125,0.016129032,Chinese > Non-Chinese,AcrA-AcrB-AcrZ-TolC is a drug efflux protein complex with broad substrate specificity that uses the proton motive force to export substrates. This subunit may act as an adapter protein that links AcrB and TolC stably together,"M00647: Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF",Environmental information processing,Drug efflux transporter/pump
+acrA,0.28125,0.016129032,Chinese > Non-Chinese,AcrA-AcrB-AcrZ-TolC is a drug efflux protein complex with broad substrate specificity that uses the proton motive force to export substrates. This subunit may act as an adapter protein that links AcrB and TolC stably together,"M00696: Multidrug resistance, efflux pump AcrEF-TolC",Environmental information processing,Drug resistance
+acrA,0.28125,0.016129032,Chinese > Non-Chinese,AcrA-AcrB-AcrZ-TolC is a drug efflux protein complex with broad substrate specificity that uses the proton motive force to export substrates. This subunit may act as an adapter protein that links AcrB and TolC stably together,"M00699: Multidrug resistance, efflux pump AmeABC",Environmental information processing,Drug efflux transporter/pump
+acrA,0.28125,0.016129032,Chinese > Non-Chinese,AcrA-AcrB-AcrZ-TolC is a drug efflux protein complex with broad substrate specificity that uses the proton motive force to export substrates. This subunit may act as an adapter protein that links AcrB and TolC stably together,"M00718: Multidrug resistance, efflux pump MexAB-OprM",Environmental information processing,Drug resistance
+ccmC,0.234375,0.032258065,Chinese > Non-Chinese,PFAM Cytochrome c assembly protein,M00259: Heme transport system,Environmental information processing,ABC-2 type and other transport systems
+umuD,0.25,0.048387097,Chinese > Non-Chinese,umuD,Unknown,Unknown,Unknown
+yadS,0.28125,0.048387097,Chinese > Non-Chinese,yadS,Unknown,Unknown,Unknown
+narI,0.203125,0,Chinese > Non-Chinese,"The nitrate reductase enzyme complex allows E.coli to use nitrate as an electron acceptor during anaerobic growth. The gamma chain is a membrane-embedded heme-iron unit resembling cytochrome b, which transfers electrons from quinones to the beta subunit","M00529: Denitrification, nitrate => nitrogen",Energy metabolism,Nitrogen metabolism
+narI,0.203125,0,Chinese > Non-Chinese,"The nitrate reductase enzyme complex allows E.coli to use nitrate as an electron acceptor during anaerobic growth. The gamma chain is a membrane-embedded heme-iron unit resembling cytochrome b, which transfers electrons from quinones to the beta subunit","M00530: Dissimilatory nitrate reduction, nitrate => ammonia",Energy metabolism,Nitrogen metabolism
+dcuB,0.390625,0.032258065,Chinese > Non-Chinese,dcuB,Unknown,Unknown,Unknown
+kpsD,0.265625,0.032258065,Chinese > Non-Chinese,kpsD,Unknown,Unknown,Unknown
+ycfS,0.21875,0,Chinese > Non-Chinese,ycfS,Unknown,Unknown,Unknown
+dbpA,0.296875,0.032258065,Chinese > Non-Chinese,dbpA,Unknown,Unknown,Unknown
+menB,0.3125,0.032258065,Chinese > Non-Chinese,"Converts o-succinylbenzoyl-CoA (OSB-CoA) to 1,4- dihydroxy-2-naphthoyl-CoA (DHNA-CoA)","M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+mexF,0.265625,0.032258065,Chinese > Non-Chinese,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,"M00641: Multidrug resistance, efflux pump MexEF-OprN",Environmental information processing,Drug resistance
+mexF,0.265625,0.032258065,Chinese > Non-Chinese,Belongs to the resistance-nodulation-cell division (RND) (TC 2.A.6) family,"M00767: Multidrug resistance, efflux pump OqxAB",Environmental information processing,Drug efflux transporter/pump
+fklB,0.25,0.048387097,Chinese > Non-Chinese,fklB,Unknown,Unknown,Unknown
+fdnG,0.25,0,Chinese > Non-Chinese,fdnG,Unknown,Unknown,Unknown
+argE,0.390625,0.048387097,Chinese > Non-Chinese,Belongs to the peptidase M20A family. ArgE subfamily,"M00028: Ornithine biosynthesis, glutamate => ornithine",Nucleotide and amino acid metabolism,Arginine and proline metabolism
+argE,0.390625,0.048387097,Chinese > Non-Chinese,Belongs to the peptidase M20A family. ArgE subfamily,"M00845: Arginine biosynthesis, glutamate ",Nucleotide and amino acid metabolism,Arginine and proline metabolism
+modF,0.25,0.016129032,Chinese > Non-Chinese,"ABC molybdenum transporter, ATP-binding subunit modF",M00189: Molybdate transport system,Environmental information processing,Mineral and organic ion transport system
+mrdB,0.21875,0.032258065,Chinese > Non-Chinese,mrdB,Unknown,Unknown,Unknown
+slyD,0.34375,0.064516129,Chinese > Non-Chinese,slyD,Unknown,Unknown,Unknown
+rpmE2,0.34375,0.064516129,Chinese > Non-Chinese,50S ribosomal protein L31 type B,"M00178: Ribosome, bacteria",Genetic information processing,Ribosome
+menA,0.421875,0.080645161,Chinese > Non-Chinese,"1,4-dihydroxy-2-naphthoate octaprenyltransferase","M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+gmhB,0.46875,0.064516129,Chinese > Non-Chinese,"1,7-bisphosphate phosphatase",M00064: ADP-L-glycero-D-manno-heptose biosynthesis,Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+hldD,0.21875,0,Chinese > Non-Chinese,Catalyzes the interconversion between ADP-D-glycero- beta-D-manno-heptose and ADP-L-glycero-beta-D-manno-heptose via an epimerization at carbon 6 of the heptose,M00064: ADP-L-glycero-D-manno-heptose biosynthesis,Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+hldE,0.203125,0.032258065,Chinese > Non-Chinese,"ADP-heptose synthase, bifunctional sugar kinase adenylyltransferase",M00064: ADP-L-glycero-D-manno-heptose biosynthesis,Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+pepN,0.25,0.016129032,Chinese > Non-Chinese,pepN,Unknown,Unknown,Unknown
+dsbG,0.234375,0,Chinese > Non-Chinese,dsbG,Unknown,Unknown,Unknown
+menE,0.359375,0.048387097,Chinese > Non-Chinese,AMP-binding enzyme,"M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+kdsD,0.421875,0.080645161,Chinese > Non-Chinese,Arabinose 5-phosphate isomerase,M00063: CMP-KDO biosynthesis,Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+glk,0.5,0.080645161,Chinese > Non-Chinese,Belongs to the bacterial glucokinase family,"M00549: Nucleotide sugar biosynthesis, glucose => UDP-glucose",Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+aqpZ,0.203125,0.016129032,Chinese > Non-Chinese,aqpZ,Unknown,Unknown,Unknown
+caiT,0.265625,0.016129032,Chinese > Non-Chinese,caiT,Unknown,Unknown,Unknown
+mltD,0.375,0.064516129,Chinese > Non-Chinese,mltD,Unknown,Unknown,Unknown
+lpxC,0.25,0.048387097,Chinese > Non-Chinese,"Catalyzes the hydrolysis of UDP-3-O-myristoyl-N- acetylglucosamine to form UDP-3-O-myristoylglucosamine and acetate, the committed step in lipid A biosynthesis","M00060: Lipopolysaccharide biosynthesis, KDO2-lipid A",Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+mltF,0.296875,0.032258065,Chinese > Non-Chinese,mltF,Unknown,Unknown,Unknown
+marC,0.359375,0.048387097,Chinese > Non-Chinese,marC,Unknown,Unknown,Unknown
+yicL,0.359375,0.064516129,Chinese > Non-Chinese,yicL,Unknown,Unknown,Unknown
+wbpM,0.28125,0.032258065,Chinese > Non-Chinese,wbpM,Unknown,Unknown,Unknown
+ssuC,0.203125,0,Chinese > Non-Chinese,ABC-type nitrate sulfonate bicarbonate transport system permease component,M00436: Sulfonate transport system,Environmental information processing,Mineral and organic ion transport system
+raiA,0.296875,0.048387097,Chinese > Non-Chinese,raiA,Unknown,Unknown,Unknown
+traJ,0.234375,0,Chinese > Non-Chinese,traJ,Unknown,Unknown,Unknown
+narL,0.265625,0,Chinese > Non-Chinese,"Bacterial regulatory proteins, luxR family",M00471: NarX-NarL (nitrate respiration) two-component regulatory system,Environmental information processing,Two-component regulatory system
+dppD,0.21875,0.016129032,Chinese > Non-Chinese,"ABC transporter, ATP-binding protein",M00324: Dipeptide transport system,Environmental information processing,Peptide and nickel transport system
+ampG,0.375,0.032258065,Chinese > Non-Chinese,Acetyl-coenzyme A transporter 1,"M00628: beta-Lactam resistance, AmpC system",Environmental information processing,Drug resistance
+glpE,0.265625,0.016129032,Chinese > Non-Chinese,glpE,Unknown,Unknown,Unknown
+ssuB,0.203125,0.016129032,Chinese > Non-Chinese,ABC transporter,M00436: Sulfonate transport system,Environmental information processing,Mineral and organic ion transport system
+dps,0.25,0.016129032,Chinese > Non-Chinese,dps,Unknown,Unknown,Unknown
+aroP,0.234375,0.032258065,Chinese > Non-Chinese,aroP,Unknown,Unknown,Unknown
+acsA,0.21875,0.032258065,Chinese > Non-Chinese,AMP-binding enzyme C-terminal domain,"M00357: Methanogenesis, acetate => methane",Energy metabolism,Methane metabolism
+paaI,0.203125,0.016129032,Chinese > Non-Chinese,thiolester hydrolase activity,"M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+celB,0.21875,0.032258065,Chinese > Non-Chinese,"The phosphoenolpyruvate-dependent sugar phosphotransferase system (PTS), a major carbohydrate active - transport system, catalyzes the phosphorylation of incoming sugar substrates concomitant with their translocation across the cell membrane","M00275: PTS system, cellobiose-specific II component",Environmental information processing,Phosphotransferase system (PTS)
+eptA,0.234375,0.032258065,Chinese > Non-Chinese,Catalyzes the addition of a phosphoethanolamine moiety to the lipid A. The phosphoethanolamine modification is required for resistance to polymyxin (By similarity),"M00722: Cationic antimicrobial peptide (CAMP) resistance, ethanolaminephosphotransferase EptA",Environmental information processing,Drug resistance
+lpxH,0.34375,0.064516129,Chinese > Non-Chinese,Calcineurin-like phosphoesterase,"M00060: Lipopolysaccharide biosynthesis, KDO2-lipid A",Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+lipB,0.53125,0.096774194,Chinese > Non-Chinese,lipB,Unknown,Unknown,Unknown
+blaR,0.203125,0.032258065,Chinese > Non-Chinese,BlaR1 peptidase M56,"M00627: beta-Lactam resistance, Bla system",Environmental information processing,Drug resistance
+yfbT,0.234375,0.032258065,Chinese > Non-Chinese,yfbT,Unknown,Unknown,Unknown
+kdpB,0.421875,0.048387097,Chinese > Non-Chinese,kdpB,Unknown,Unknown,Unknown
+lpxL,0.28125,0,Chinese > Non-Chinese,Catalyzes the transfer of laurate from lauroyl-acyl carrier protein (ACP) to Kdo(2)-lipid IV(A) to form Kdo(2)- (lauroyl)-lipid IV(A),"M00060: Lipopolysaccharide biosynthesis, KDO2-lipid A",Carbohydrate and lipid metabolism,Lipopolysaccharide metabolism
+nagC,0.265625,0.016129032,Chinese > Non-Chinese,Acts as a repressor of the nagEBACD operon and acts both as an activator and a repressor for the transcription of the glmSU operon,"M00001: Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+prpC,0.234375,0.032258065,Chinese > Non-Chinese,"Citrate synthase, C-terminal domain",M00012: Glyoxylate cycle,Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+prpC,0.234375,0.032258065,Chinese > Non-Chinese,"Citrate synthase, C-terminal domain",M00740: Methylaspartate cycle,Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+bamA,0.21875,0.032258065,Chinese > Non-Chinese,bamA,Unknown,Unknown,Unknown
+dpaL,0.34375,0.032258065,Chinese > Non-Chinese,dpaL,Unknown,Unknown,Unknown
+clpA,0.203125,0.032258065,Chinese > Non-Chinese,clpA,Unknown,Unknown,Unknown
+nupG,0.21875,0.032258065,Chinese > Non-Chinese,nupG,Unknown,Unknown,Unknown
+gudD,0.21875,0,Chinese > Non-Chinese,gudD,Unknown,Unknown,Unknown
+entC,0.25,0,Chinese > Non-Chinese,"Involved in the biosynthesis of the siderophore enterobactin (macrocyclic trimeric lactone of N-(2,3- dihydroxybenzoyl)-serine). Catalyzes the reversible conversion of chorismate to isochorismate","M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+yihX,0.28125,0.016129032,Chinese > Non-Chinese,Haloacid dehalogenase-like hydrolase,"M00125: Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+yciO,0.296875,0.048387097,Chinese > Non-Chinese,yciO,Unknown,Unknown,Unknown
+cysQ,0.28125,0.048387097,Chinese > Non-Chinese,cysQ,Unknown,Unknown,Unknown
+kduD,0.265625,0.048387097,Chinese > Non-Chinese,kduD,Unknown,Unknown,Unknown
+ssuA,0.296875,0,Chinese > Non-Chinese,ABC transporter,M00436: Sulfonate transport system,Environmental information processing,Mineral and organic ion transport system
+traM,0.359375,0.016129032,Chinese > Non-Chinese,traM,Unknown,Unknown,Unknown
+ynfM,0.25,0.032258065,Chinese > Non-Chinese,ynfM,Unknown,Unknown,Unknown
+nagE,0.453125,0.080645161,Chinese > Non-Chinese,PTS system,"M00267: PTS system, N-acetylglucosamine-specific II component",Environmental information processing,Phosphotransferase system (PTS)
+merA,0.25,0.016129032,Chinese > Non-Chinese,merA,Unknown,Unknown,Unknown
+treR,0.21875,0.016129032,Chinese > Non-Chinese,treR,Unknown,Unknown,Unknown
+garD,0.265625,0.016129032,Chinese > Non-Chinese,D-galactarate dehydratase Altronate hydrolase,"M00631: D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P",Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+menD,0.390625,0.048387097,Chinese > Non-Chinese,Catalyzes the thiamine diphosphate-dependent decarboxylation of 2-oxoglutarate and the subsequent addition of the resulting succinic semialdehyde-thiamine pyrophosphate anion to isochorismate to yield 2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate (SEPHCHC),"M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+ydaH,0.234375,0,Chinese > Non-Chinese,ydaH,Unknown,Unknown,Unknown
+kdpA,0.4375,0.048387097,Chinese > Non-Chinese,kdpA,Unknown,Unknown,Unknown
+amn,0.25,0,Chinese > Non-Chinese,amn,Unknown,Unknown,Unknown
+qseC,0.265625,0.048387097,Chinese > Non-Chinese,Histidine kinase,M00453: QseC-QseB (quorum sensing) two-component regulatory system,Environmental information processing,Two-component regulatory system
+kdgT,0.265625,0.016129032,Chinese > Non-Chinese,kdgT,Unknown,Unknown,Unknown
+ahpF,0.234375,0.016129032,Chinese > Non-Chinese,ahpF,Unknown,Unknown,Unknown
+purU,0.203125,0.016129032,Chinese > Non-Chinese,purU,Unknown,Unknown,Unknown
+citX,0.234375,0.032258065,Chinese > Non-Chinese,citX,Unknown,Unknown,Unknown
+menC,0.3125,0.048387097,Chinese > Non-Chinese,"Converts 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1- carboxylate (SHCHC) to 2-succinylbenzoate (OSB)","M00116: Menaquinone biosynthesis, chorismate => menaquinone",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+nrdB,0.296875,0.032258065,Chinese > Non-Chinese,Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides,"M00053: Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP",Nucleotide and amino acid metabolism,Pyrimidine metabolism
+rprY,0.203125,0.032258065,Chinese > Non-Chinese,rprY,Unknown,Unknown,Unknown
+bcr,0.265625,0.048387097,Chinese > Non-Chinese,"Psort location CytoplasmicMembrane, score","M00701: Multidrug resistance, efflux pump EmrAB",Environmental information processing,Drug efflux transporter/pump
+cydA,0.375,0.064516129,Chinese > Non-Chinese,"A terminal oxidase that produces a proton motive force by the vectorial transfer of protons across the inner membrane. It is the component of the aerobic respiratory chain of E.coli that predominates when cells are grown at low aeration. Generates a proton motive force using protons and electrons from opposite sides of the membrane to generate H(2)O, transferring 1 proton electron",M00153: Cytochrome d ubiquinol oxidase,Energy metabolism,ATP synthesis
+proX,0.21875,0.032258065,Chinese > Non-Chinese,Glycine betaine,M00208: Glycine betaine/proline transport system,Environmental information processing,Mineral and organic ion transport system
+dppC,0.25,0.048387097,Chinese > Non-Chinese,"ABC-type dipeptide oligopeptide nickel transport systems, permease components",M00324: Dipeptide transport system,Environmental information processing,Peptide and nickel transport system
+ansB,0.296875,0.016129032,Chinese > Non-Chinese,ansB,Unknown,Unknown,Unknown
+mtgA,0.296875,0.016129032,Chinese > Non-Chinese,mtgA,Unknown,Unknown,Unknown
+cpdB,0.234375,0.032258065,Chinese > Non-Chinese,cpdB,Unknown,Unknown,Unknown
+ybjG,0.234375,0.016129032,Chinese > Non-Chinese,ybjG,Unknown,Unknown,Unknown
+aldA,0.234375,0.016129032,Chinese > Non-Chinese,Aldehyde dehydrogenase family,"M00038: Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate",Nucleotide and amino acid metabolism,Aromatic amino acid metabolism
+aldA,0.234375,0.016129032,Chinese > Non-Chinese,Aldehyde dehydrogenase family,"M00136: GABA biosynthesis, prokaryotes, putrescine => GABA",Nucleotide and amino acid metabolism,Polyamine biosynthesis
+aldA,0.234375,0.016129032,Chinese > Non-Chinese,Aldehyde dehydrogenase family,"M00533: Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate",Nucleotide and amino acid metabolism,Aromatic amino acid metabolism
+aldA,0.234375,0.016129032,Chinese > Non-Chinese,Aldehyde dehydrogenase family,"M00569: Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA",Secondary metabolism,Aromatics degradation
+pckG,0,0.225806452,Non-Chinese > Chinese,"Catalyzes the conversion of oxaloacetate (OAA) to phosphoenolpyruvate (PEP), the rate-limiting step in the metabolic pathway that produces glucose from lactate and other precursors derived from the citric acid cycle","M00003: Gluconeogenesis, oxaloacetate => fructose-6P",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+pgl,0.34375,0.032258065,Chinese > Non-Chinese,6-phosphogluconolactonase,M00004: Pentose phosphate pathway (Pentose phosphate cycle),Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+pgl,0.34375,0.032258065,Chinese > Non-Chinese,6-phosphogluconolactonase,"M00006: Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+htpX,0.328125,0.064516129,Chinese > Non-Chinese,Belongs to the peptidase M48B family,"M00743: Aminoglycoside resistance, protease HtpX",Environmental information processing,Drug resistance
+chbA,0.21875,0,Chinese > Non-Chinese,"PFAM phosphotransferase system PTS, lactose cellobiose-specific IIA subunit","M00275: PTS system, cellobiose-specific II component",Environmental information processing,Phosphotransferase system (PTS)
+pgl,0.34375,0.032258065,Chinese > Non-Chinese,6-phosphogluconolactonase,"M00008: Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+nikA,0.28125,0.016129032,Chinese > Non-Chinese,ABC transporter,M00239: Peptides/nickel transport system,Environmental information processing,Peptide and nickel transport system
+nikA,0.28125,0.016129032,Chinese > Non-Chinese,ABC transporter,M00440: Nickel transport system,Environmental information processing,Peptide and nickel transport system
+arnT,0.203125,0.016129032,Chinese > Non-Chinese,Catalyzes the transfer of the L-Ara4N moiety of the glycolipid undecaprenyl phosphate-alpha-L-Ara4N to lipid A. The modified arabinose is attached to lipid A and is required for resistance to polymyxin and cationic antimicrobial peptides,"M00721: Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon",Environmental information processing,Drug resistance
+artM,0.203125,0,Chinese > Non-Chinese,(ABC) transporter,M00229: Arginine transport system,Environmental information processing,Phosphate and amino acid transport system
+gltS,0.609375,0.064516129,Chinese > Non-Chinese,gltS,Unknown,Unknown,Unknown
+mdtG,0.203125,0,Chinese > Non-Chinese,mdtG,Unknown,Unknown,Unknown
+nikR,0.21875,0.016129032,Chinese > Non-Chinese,nikR,Unknown,Unknown,Unknown
+prpC,0.234375,0.032258065,Chinese > Non-Chinese,"Citrate synthase, C-terminal domain","M00009: Citrate cycle (TCA cycle, Krebs cycle)",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+eamA,0.203125,0.016129032,Chinese > Non-Chinese,eamA,Unknown,Unknown,Unknown
+uspA,0.25,0.032258065,Chinese > Non-Chinese,uspA,Unknown,Unknown,Unknown
+cfa,0.28125,0.048387097,Chinese > Non-Chinese,cfa,Unknown,Unknown,Unknown
+prpC,0.234375,0.032258065,Chinese > Non-Chinese,"Citrate synthase, C-terminal domain","M00010: Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+nagC,0.265625,0.016129032,Chinese > Non-Chinese,Acts as a repressor of the nagEBACD operon and acts both as an activator and a repressor for the transcription of the glmSU operon,"M00549: Nucleotide sugar biosynthesis, glucose => UDP-glucose",Carbohydrate and lipid metabolism,Other carbohydrate metabolism
+ycgE,0.390625,0.064516129,Chinese > Non-Chinese,ycgE,Unknown,Unknown,Unknown
+lptE,0.34375,0.064516129,Chinese > Non-Chinese,lptE,Unknown,Unknown,Unknown
+exuT,0.234375,0,Chinese > Non-Chinese,exuT,Unknown,Unknown,Unknown
+dppF,0.234375,0.016129032,Chinese > Non-Chinese,ATPases associated with a variety of cellular activities,M00324: Dipeptide transport system,Environmental information processing,Peptide and nickel transport system
+mntH,0.375,0.064516129,Chinese > Non-Chinese,mntH,Unknown,Unknown,Unknown
+ypdB,0.203125,0.032258065,Chinese > Non-Chinese,LytTr DNA-binding domain,M00492: LytS-LytR two-component regulatory system,Environmental information processing,Two-component regulatory system
+metC,0.21875,0.032258065,Chinese > Non-Chinese,Catalyzes the formation of L-homocysteine from O- succinyl-L-homoserine (OSHS) and hydrogen sulfide,"M00017: Methionine biosynthesis, apartate => homoserine => methionine",Nucleotide and amino acid metabolism,Cysteine and methionine metabolism
+fucP,0.40625,0.048387097,Chinese > Non-Chinese,fucP,Unknown,Unknown,Unknown
+araJ,0.265625,0.032258065,Chinese > Non-Chinese,araJ,Unknown,Unknown,Unknown
+zwf,0.3125,0.016129032,Chinese > Non-Chinese,Catalyzes the oxidation of glucose 6-phosphate to 6- phosphogluconolactone,M00004: Pentose phosphate pathway (Pentose phosphate cycle),Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+pdxH,0.21875,0.016129032,Chinese > Non-Chinese,Catalyzes the oxidation of either pyridoxine 5'- phosphate (PNP) or pyridoxamine 5'-phosphate (PMP) into pyridoxal 5'-phosphate (PLP),"M00124: Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+rhaT,0.203125,0.016129032,Chinese > Non-Chinese,rhaT,Unknown,Unknown,Unknown
+pgpA,0.21875,0.032258065,Chinese > Non-Chinese,pgpA,Unknown,Unknown,Unknown
+ydhP,0.203125,0,Chinese > Non-Chinese,ydhP,Unknown,Unknown,Unknown
+rbsD,0.203125,0.032258065,Chinese > Non-Chinese,rbsD,Unknown,Unknown,Unknown
+acrB,0.265625,0,Chinese > Non-Chinese,AcrB/AcrD/AcrF family,"M00647: Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF",Environmental information processing,Drug efflux transporter/pump
+acrB,0.265625,0,Chinese > Non-Chinese,AcrB/AcrD/AcrF family,"M00699: Multidrug resistance, efflux pump AmeABC",Environmental information processing,Drug efflux transporter/pump
+acrB,0.265625,0,Chinese > Non-Chinese,AcrB/AcrD/AcrF family,"M00718: Multidrug resistance, efflux pump MexAB-OprM",Environmental information processing,Drug resistance
+ghrA,0.21875,0.032258065,Chinese > Non-Chinese,ghrA,Unknown,Unknown,Unknown
+yicJ,0.203125,0,Chinese > Non-Chinese,yicJ,Unknown,Unknown,Unknown
+narH,0.21875,0,Chinese > Non-Chinese,Nitrate reductase beta subunit,"M00529: Denitrification, nitrate => nitrogen",Energy metabolism,Nitrogen metabolism
+narH,0.21875,0,Chinese > Non-Chinese,Nitrate reductase beta subunit,"M00530: Dissimilatory nitrate reduction, nitrate => ammonia",Energy metabolism,Nitrogen metabolism
+narH,0.21875,0,Chinese > Non-Chinese,Nitrate reductase beta subunit,"M00804: Complete nitrification, comammox, ammonia => nitrite => nitrate",Energy metabolism,Nitrogen metabolism
+bcsZ,0.203125,0,Chinese > Non-Chinese,bcsZ,Unknown,Unknown,Unknown
+yoaB,0.21875,0.016129032,Chinese > Non-Chinese,yoaB,Unknown,Unknown,Unknown
+zraR,0.265625,0.032258065,Chinese > Non-Chinese,"Bacterial regulatory protein, Fis family",M00499: HydH-HydG (metal tolerance) two-component regulatory system,Environmental information processing,Two-component regulatory system
+sodB,0.296875,0.032258065,Chinese > Non-Chinese,sodB,Unknown,Unknown,Unknown
+aroG,0.203125,0.032258065,Chinese > Non-Chinese,Stereospecific condensation of phosphoenolpyruvate (PEP) and D-erythrose-4-phosphate (E4P) giving rise to 3-deoxy-D- arabino-heptulosonate-7-phosphate (DAHP),"M00022: Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate",Nucleotide and amino acid metabolism,Aromatic amino acid metabolism
+ybhS,0.25,0.048387097,Chinese > Non-Chinese,ABC-2 family transporter protein,M00254: ABC-2 type transport system,Environmental information processing,ABC-2 type and other transport systems
+bioC,0.296875,0.048387097,Chinese > Non-Chinese,Converts the free carboxyl group of a malonyl-thioester to its methyl ester by transfer of a methyl group from S-adenosyl- L-methionine (SAM). It allows to synthesize pimeloyl-ACP via the fatty acid synthetic pathway,"M00572: Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+traK,0.203125,0.016129032,Chinese > Non-Chinese,Type IV secretory system Conjugative DNA transfer,M00333: Type IV secretion system,Environmental information processing,Bacterial secretion system
+ypjD,0.296875,0.048387097,Chinese > Non-Chinese,ypjD,Unknown,Unknown,Unknown
+zwf,0.3125,0.016129032,Chinese > Non-Chinese,Catalyzes the oxidation of glucose 6-phosphate to 6- phosphogluconolactone,"M00006: Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+bioF,0.40625,0.064516129,Chinese > Non-Chinese,2-amino-3-ketobutyrate CoA ligase,"M00123: Biotin biosynthesis, pimeloyl-ACP/CoA => biotin",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+bioF,0.40625,0.064516129,Chinese > Non-Chinese,2-amino-3-ketobutyrate CoA ligase,"M00573: Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+bioF,0.40625,0.064516129,Chinese > Non-Chinese,2-amino-3-ketobutyrate CoA ligase,"M00577: Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin",Nucleotide and amino acid metabolism,Cofactor and vitamin biosynthesis
+ykgB,0.203125,0,Chinese > Non-Chinese,ykgB,Unknown,Unknown,Unknown
+kdpC,0.421875,0.048387097,Chinese > Non-Chinese,kdpC,Unknown,Unknown,Unknown
+livJ,0.21875,0.032258065,Chinese > Non-Chinese,"COG0683 ABC-type branched-chain amino acid transport systems, periplasmic component",M00237: Branched-chain amino acid transport system,Environmental information processing,Phosphate and amino acid transport system
+citS,0.25,0,Chinese > Non-Chinese,citS,Unknown,Unknown,Unknown
+ompR,0.21875,0.016129032,Chinese > Non-Chinese,COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,M00445: EnvZ-OmpR (osmotic stress response) two-component regulatory system,Environmental information processing,Two-component regulatory system
+ompR,0.21875,0.016129032,Chinese > Non-Chinese,COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,"M00742: Aminoglycoside resistance, protease FtsH",Environmental information processing,Drug resistance
+ompR,0.21875,0.016129032,Chinese > Non-Chinese,COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,"M00743: Aminoglycoside resistance, protease HtpX",Environmental information processing,Drug resistance
+ndh,0.234375,0,Chinese > Non-Chinese,ndh,Unknown,Unknown,Unknown
+murE1,0,0.241935484,Non-Chinese > Chinese,murE1,Unknown,Unknown,Unknown
+ywdH,0.046875,0.241935484,Non-Chinese > Chinese,Aldehyde dehydrogenase,"M00135: GABA biosynthesis, eukaryotes, putrescine => GABA",Nucleotide and amino acid metabolism,Polyamine biosynthesis
+dltR,0.046875,0.338709677,Non-Chinese > Chinese,dltR,Unknown,Unknown,Unknown
+zwf,0.3125,0.016129032,Chinese > Non-Chinese,Catalyzes the oxidation of glucose 6-phosphate to 6- phosphogluconolactone,"M00008: Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate",Carbohydrate and lipid metabolism,Central carbohydrate metabolism
+dltS,0.046875,0.241935484,Non-Chinese > Chinese,dltS,Unknown,Unknown,Unknown
+spoVS,0.03125,0.241935484,Non-Chinese > Chinese,spoVS,Unknown,Unknown,Unknown
