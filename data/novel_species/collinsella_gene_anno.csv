@@ -1,0 +1,21 @@
+gene_name,Category,Direction
+trpS,Aminoacyl-tRNA biosynthesis,Chinese > Non-Chinese
+gpmA,Carbohydrate and lipid metabolism,Chinese > Non-Chinese
+idi,Carbohydrate and lipid metabolism,Chinese > Non-Chinese
+artJ,Environmental information processing,Chinese > Non-Chinese
+gatC,Environmental information processing,Chinese > Non-Chinese
+ptsC,Environmental information processing,Chinese > Non-Chinese
+ulaA,Environmental information processing,Chinese > Non-Chinese
+cobO,Nucleotide and amino acid metabolism,Chinese > Non-Chinese
+leuA,Nucleotide and amino acid metabolism,Chinese > Non-Chinese
+leuB,Nucleotide and amino acid metabolism,Chinese > Non-Chinese
+mtnN,Nucleotide and amino acid metabolism,Chinese > Non-Chinese
+ubiX,Nucleotide and amino acid metabolism,Chinese > Non-Chinese
+proS,Aminoacyl-tRNA biosynthesis,Non-Chinese > Chinese
+lacE,Environmental information processing,Non-Chinese > Chinese
+nagE,Environmental information processing,Non-Chinese > Chinese
+treP,Environmental information processing,Non-Chinese > Chinese
+rplN,Genetic information processing,Non-Chinese > Chinese
+rplX,Genetic information processing,Non-Chinese > Chinese
+argC,Nucleotide and amino acid metabolism,Non-Chinese > Chinese
+argD,Nucleotide and amino acid metabolism,Non-Chinese > Chinese
