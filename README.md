@@ -1,7 +1,7 @@
 # Analysis of Human Gut Microbiome Reference Genome Catalog (HGMRGC) and microbial differences between the Han Chinese and non-Chinese populations
 
 ## scripts/
-hgmrgc_sample_geo_distribution_fig1a.py: Plot the geographic distribution of metagenomic samples collected from 22 countries and 29 provinces or regions across the mainland China.
+* hgmrgc_sample_geo_distribution_fig1a.py: Plot the geographic distribution of metagenomic samples collected from 22 countries and 29 provinces or regions across the mainland China.
 
 hgmrgc_lowest_taxonomic_level_fig1c.py: Plot the number of representative genomes annotated at the lowest taxonomic levels in HGMRGC and UHGG. 
 
